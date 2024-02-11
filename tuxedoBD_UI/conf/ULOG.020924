@@ -1,0 +1,13 @@
+161512.localhost.localdomain!tmshutdown.18728.3202298304.-2: 02-09-2024: client high water (), total client ()              
+161512.localhost.localdomain!tmshutdown.18728.3202298304.-2: 02-09-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+161512.localhost.localdomain!tmshutdown.18728.3202298304.-2: LIBTUX_CAT:334: ERROR: No BBL
+161512.localhost.localdomain!tmshutdown.18728.3202298304.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB
+161535.localhost.localdomain!tmshutdown.18794.2032996800.-2: 02-09-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+161535.localhost.localdomain!tmshutdown.18794.2032996800.-2: LIBTUX_CAT:334: ERROR: No BBL
+161535.localhost.localdomain!tmshutdown.18794.2032996800.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB
+174024.localhost.localdomain!tmshutdown.29642.738955712.-2: 02-09-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+174024.localhost.localdomain!tmshutdown.29642.738955712.-2: LIBTUX_CAT:334: ERROR: No BBL
+174024.localhost.localdomain!tmshutdown.29642.738955712.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB
+182926.localhost.localdomain!tmshutdown.2120.3290051008.-2: 02-09-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+182926.localhost.localdomain!tmshutdown.2120.3290051008.-2: LIBTUX_CAT:334: ERROR: No BBL
+182926.localhost.localdomain!tmshutdown.2120.3290051008.-2: FATAL: internal error: CMDTUX_CAT:764: ERROR: can't attach to BB

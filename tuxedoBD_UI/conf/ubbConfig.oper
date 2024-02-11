@@ -1,0 +1,38 @@
+*RESOURCES
+IPCKEY          65522
+DOMAINID        f4d
+MASTER          f4d
+MAXACCESSERS    50
+MAXSERVERS      40
+MAXSERVICES     100
+MODEL           SHM
+LDBAL           Y
+
+*MACHINES
+"localhost.localdomain"     LMID="f4d"
+            TUXCONFIG="/home/oracle/tuxedo/conf/tuxconfig"
+            APPDIR="/home/oracle/tuxedo/bin"
+            TUXDIR="/u01/app/oracle/product/12.2.0/dbhome_1/tuxedo12.2.2.0.0"
+            ULOGPFX="/home/oracle/tuxedo/log/ULOG-S10"
+            MAXWSCLIENTS=5
+
+*GROUPS
+BIBLIO  LMID=f4d    GRPNO=10
+SIAT    LMID=f4d    GRPNO=11
+
+*SERVERS
+DEFAULT:        CLOPT="-A"  RESTART=Y   REPLYQ=Y
+
+#GRUPO BIBLIO
+srvTuxedoBD
+                        SRVGRP=BIBLIO
+                        SRVID=10
+                        MIN=1
+                        MAX=2
+                        MAXGEN=2
+
+*SERVICES
+insert_Negocio_FML
+select_Negocio_FML
+update_Negocio_FML
+delete_Negocio_FML

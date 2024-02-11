@@ -1,0 +1,41 @@
+200243.localhost.localdomain!?proc.19450.672072128.0: total client (1), logon: NATIVE cltname () success
+200243.localhost.localdomain!?proc.19450.672072128.0: total client (1), logoff: NATIVE cltname () success
+203657.localhost.localdomain!BBL.19023.3423371712.0: total client (0), cleaned: NATIVE IP (), cltname (tmadmin) success
+213410.localhost.localdomain!?proc.29002.1918833088.0: total client (1), logon: NATIVE cltname () success
+213410.localhost.localdomain!?proc.29002.1918833088.0: total client (1), logoff: NATIVE cltname () success
+213433.localhost.localdomain!?proc.29073.2558063040.0: total client (1), logon: NATIVE cltname () success
+213433.localhost.localdomain!?proc.29073.2558063040.0: total client (1), logoff: NATIVE cltname () success
+213907.localhost.localdomain!BBL.28760.2333200832.0: total client (0), cleaned: NATIVE IP (), cltname (tmadmin) success
+214418.localhost.localdomain!?proc.30381.2423845312.0: total client (1), logon: NATIVE cltname () success
+214418.localhost.localdomain!?proc.30381.2423845312.0: total client (1), logoff: NATIVE cltname () success
+215330.localhost.localdomain!?proc.31596.591401408.0: total client (1), logon: NATIVE cltname () success
+215330.localhost.localdomain!?proc.31596.591401408.0: total client (1), logoff: NATIVE cltname () success
+215341.localhost.localdomain!?proc.31672.3128480192.0: total client (1), logon: NATIVE cltname () success
+215341.localhost.localdomain!?proc.31672.3128480192.0: total client (1), logoff: NATIVE cltname () success
+215401.localhost.localdomain!?proc.31773.262599104.0: total client (1), logon: NATIVE cltname () success
+215401.localhost.localdomain!?proc.31773.262599104.0: total client (1), logoff: NATIVE cltname () success
+220014.localhost.localdomain!?proc.32568.2894246336.0: total client (1), logon: NATIVE cltname () success
+220014.localhost.localdomain!?proc.32568.2894246336.0: total client (1), logoff: NATIVE cltname () success
+220402.localhost.localdomain!?proc.766.2088477120.0: total client (1), logon: NATIVE cltname () success
+220402.localhost.localdomain!?proc.766.2088477120.0: total client (1), logoff: NATIVE cltname () success
+221245.localhost.localdomain!?proc.2154.2877051328.0: total client (1), logon: NATIVE cltname () success
+221245.localhost.localdomain!?proc.2154.2877051328.0: total client (1), logoff: NATIVE cltname () success
+221306.localhost.localdomain!?proc.2213.1972892096.0: total client (1), logon: NATIVE cltname () success
+221306.localhost.localdomain!?proc.2213.1972892096.0: total client (1), logoff: NATIVE cltname () success
+221313.localhost.localdomain!?proc.2239.2212811200.0: total client (1), logon: NATIVE cltname () success
+221313.localhost.localdomain!?proc.2239.2212811200.0: total client (1), logoff: NATIVE cltname () success
+222353.localhost.localdomain!?proc.3643.2265293248.0: total client (1), logon: NATIVE cltname () success
+222353.localhost.localdomain!?proc.3643.2265293248.0: total client (1), logoff: NATIVE cltname () success
+222359.localhost.localdomain!?proc.3673.4264624576.0: total client (1), logon: NATIVE cltname () success
+222359.localhost.localdomain!?proc.3673.4264624576.0: total client (1), logoff: NATIVE cltname () success
+222830.localhost.localdomain!?proc.4483.2749579712.0: total client (1), logon: NATIVE cltname () success
+222830.localhost.localdomain!?proc.4483.2749579712.0: total client (1), logoff: NATIVE cltname () success
+222856.localhost.localdomain!?proc.4741.3717370304.0: total client (1), logon: NATIVE cltname () success
+222856.localhost.localdomain!?proc.4741.3717370304.0: total client (1), logoff: NATIVE cltname () success
+231055.localhost.localdomain!?proc.9294.2243969472.0: total client (1), logon: NATIVE cltname () success
+231055.localhost.localdomain!?proc.9294.2243969472.0: total client (1), logoff: NATIVE cltname () success
+231319.localhost.localdomain!?proc.9647.2004459968.0: total client (1), logon: NATIVE cltname () success
+231319.localhost.localdomain!?proc.9647.2004459968.0: total client (1), logoff: NATIVE cltname () success
+233233.localhost.localdomain!?proc.11273.508154304.0: total client (1), logon: NATIVE cltname () success
+233233.localhost.localdomain!?proc.11273.508154304.0: total client (1), logoff: NATIVE cltname () success
+234014.localhost.localdomain!BBL.9195.832197056.0: total client (0), cleaned: NATIVE IP (), cltname (tmadmin) success

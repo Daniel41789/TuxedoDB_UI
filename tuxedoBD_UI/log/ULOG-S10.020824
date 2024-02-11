@@ -1,0 +1,181 @@
+200014.localhost.localdomain!tmloadcf.18926.2244985280.-2: 02-08-2024: client high water (0), total client (0)            
+200014.localhost.localdomain!tmloadcf.18926.2244985280.-2: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200014.localhost.localdomain!tmloadcf.18926.2244985280.-2: CMDTUX_CAT:879: INFO: A new file system has been created. (size = 1276 512-byte blocks)
+200014.localhost.localdomain!tmloadcf.18926.2244985280.-2: CMDTUX_CAT:871: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been created
+200057.localhost.localdomain!BBL.19023.3423371712.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+200057.localhost.localdomain!BBL.19023.3423371712.0: LIBTUX_CAT:262: INFO: Standard main starting
+200057.localhost.localdomain!srvTuxedoBD.19039.3141319680.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+200057.localhost.localdomain!srvTuxedoBD.19039.3141319680.0: LIBTUX_CAT:262: INFO: Standard main starting
+200057.localhost.localdomain!srvTuxedoBD.19039.3141319680.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+200243.localhost.localdomain!srvTuxedoBD.19039.3141319680.0: Servicio insert_Negocio_FML Invocado
+200243.localhost.localdomain!srvTuxedoBD.19039.3141319680.0:  IDPACIENTE: [1]
+200243.localhost.localdomain!srvTuxedoBD.19039.3141319680.0:  Nombre : [Daniel]
+200243.localhost.localdomain!srvTuxedoBD.19039.3141319680.0:  Apellido: [Arenas]
+200243.localhost.localdomain!srvTuxedoBD.19039.3141319680.0:  Telefono : [7225]
+200243.localhost.localdomain!srvTuxedoBD.19039.3141319680.0: Conectando a la BD
+200243.localhost.localdomain!srvTuxedoBD.19039.3141319680.0: Insert exitoso
+201211.localhost.localdomain!srvTuxedoBD.19039.3141319680.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+201214.localhost.localdomain!BBL.19023.3423371712.0: LIBTUX_CAT:1233: ERROR: Unable to shutdown, clients/servers still attached
+203657.localhost.localdomain!BBL.19023.3423371712.0: LIBTUX_CAT:216: WARN: Process 19117 died; removing from BB
+203702.localhost.localdomain!BBL.19023.3423371712.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+213315.localhost.localdomain!tmloadcf.28723.1801343424.-2: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+213315.localhost.localdomain!tmloadcf.28723.1801343424.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+213324.localhost.localdomain!BBL.28760.2333200832.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+213324.localhost.localdomain!BBL.28760.2333200832.0: LIBTUX_CAT:262: INFO: Standard main starting
+213324.localhost.localdomain!srvTuxedoBD.28775.831331328.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+213324.localhost.localdomain!srvTuxedoBD.28775.831331328.0: LIBTUX_CAT:262: INFO: Standard main starting
+213324.localhost.localdomain!srvTuxedoBD.28775.831331328.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+213410.localhost.localdomain!srvTuxedoBD.28775.831331328.0: Servicio select_Negocio_FML Invocado
+213410.localhost.localdomain!srvTuxedoBD.28775.831331328.0: Buscar Doctor: [Netz]
+213410.localhost.localdomain!srvTuxedoBD.28775.831331328.0: Conectando a la BD
+213410.localhost.localdomain!srvTuxedoBD.28775.831331328.0: Select exitoso
+213433.localhost.localdomain!srvTuxedoBD.28775.831331328.0: Servicio select_Negocio_FML Invocado
+213433.localhost.localdomain!srvTuxedoBD.28775.831331328.0: Buscar Doctor: [Antonio]
+213433.localhost.localdomain!srvTuxedoBD.28775.831331328.0: Conectando a la BD
+213433.localhost.localdomain!srvTuxedoBD.28775.831331328.0: Select exitoso
+213458.localhost.localdomain!srvTuxedoBD.28775.831331328.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+213501.localhost.localdomain!BBL.28760.2333200832.0: LIBTUX_CAT:1233: ERROR: Unable to shutdown, clients/servers still attached
+213508.localhost.localdomain!BBL.28760.2333200832.0: LIBTUX_CAT:1233: ERROR: Unable to shutdown, clients/servers still attached
+213850.localhost.localdomain!BBL.28760.2333200832.0: LIBTUX_CAT:1233: ERROR: Unable to shutdown, clients/servers still attached
+213907.localhost.localdomain!BBL.28760.2333200832.0: LIBTUX_CAT:216: WARN: Process 28864 died; removing from BB
+213907.localhost.localdomain!BBL.28760.2333200832.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+214411.localhost.localdomain!BBL.30334.1316639168.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+214411.localhost.localdomain!BBL.30334.1316639168.0: LIBTUX_CAT:262: INFO: Standard main starting
+214411.localhost.localdomain!srvTuxedoBD.30357.3806129152.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+214411.localhost.localdomain!srvTuxedoBD.30357.3806129152.0: LIBTUX_CAT:262: INFO: Standard main starting
+214411.localhost.localdomain!srvTuxedoBD.30357.3806129152.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+214418.localhost.localdomain!srvTuxedoBD.30357.3806129152.0: Servicio select_Negocio_FML Invocado
+214418.localhost.localdomain!srvTuxedoBD.30357.3806129152.0: Buscar Doctor: [Netz]
+214418.localhost.localdomain!srvTuxedoBD.30357.3806129152.0: Conectando a la BD
+214418.localhost.localdomain!srvTuxedoBD.30357.3806129152.0: Select exitoso
+214437.localhost.localdomain!srvTuxedoBD.30357.3806129152.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+214440.localhost.localdomain!BBL.30334.1316639168.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+215230.localhost.localdomain!BBL.31265.3528978880.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+215230.localhost.localdomain!BBL.31265.3528978880.0: LIBTUX_CAT:262: INFO: Standard main starting
+215230.localhost.localdomain!srvTuxedoBD.31289.787868672.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215230.localhost.localdomain!srvTuxedoBD.31289.787868672.0: LIBTUX_CAT:262: INFO: Standard main starting
+215230.localhost.localdomain!srvTuxedoBD.31289.787868672.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+215239.localhost.localdomain!srvTuxedoBD.31289.787868672.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+215242.localhost.localdomain!BBL.31265.3528978880.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+215302.localhost.localdomain!BBL.31482.2916856256.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+215302.localhost.localdomain!BBL.31482.2916856256.0: LIBTUX_CAT:262: INFO: Standard main starting
+215302.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+215302.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: LIBTUX_CAT:262: INFO: Standard main starting
+215302.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+215330.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Servicio select_Negocio_FML Invocado
+215330.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Buscar Doctor: [Netz]
+215330.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Conectando a la BD
+215330.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Select exitoso
+215341.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Servicio select_Negocio_FML Invocado
+215341.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Buscar Doctor: [Adan]
+215341.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Conectando a la BD
+215341.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Select exitoso
+215401.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Servicio select_Negocio_FML Invocado
+215401.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Buscar Doctor: [Antonio]
+215401.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Conectando a la BD
+215401.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: Select exitoso
+215925.localhost.localdomain!srvTuxedoBD.31491.2108263424.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+215928.localhost.localdomain!BBL.31482.2916856256.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+220001.localhost.localdomain!BBL.32479.1736143296.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+220001.localhost.localdomain!BBL.32479.1736143296.0: LIBTUX_CAT:262: INFO: Standard main starting
+220001.localhost.localdomain!srvTuxedoBD.32494.3880397824.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+220001.localhost.localdomain!srvTuxedoBD.32494.3880397824.0: LIBTUX_CAT:262: INFO: Standard main starting
+220001.localhost.localdomain!srvTuxedoBD.32494.3880397824.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+220014.localhost.localdomain!srvTuxedoBD.32494.3880397824.0: Servicio select_Negocio_FML Invocado
+220014.localhost.localdomain!srvTuxedoBD.32494.3880397824.0: Buscar Doctor: [Netz]
+220014.localhost.localdomain!srvTuxedoBD.32494.3880397824.0: Conectando a la BD
+220014.localhost.localdomain!srvTuxedoBD.32494.3880397824.0: Select exitoso
+220125.localhost.localdomain!srvTuxedoBD.32494.3880397824.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+220128.localhost.localdomain!BBL.32479.1736143296.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+220306.localhost.localdomain!BBL.496.2176549312.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+220306.localhost.localdomain!BBL.496.2176549312.0: LIBTUX_CAT:262: INFO: Standard main starting
+220306.localhost.localdomain!srvTuxedoBD.502.1390099456.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+220306.localhost.localdomain!srvTuxedoBD.502.1390099456.0: LIBTUX_CAT:262: INFO: Standard main starting
+220306.localhost.localdomain!srvTuxedoBD.502.1390099456.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+220308.localhost.localdomain!srvTuxedoBD.502.1390099456.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+220311.localhost.localdomain!BBL.496.2176549312.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+220355.localhost.localdomain!BBL.728.1403560384.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+220355.localhost.localdomain!BBL.728.1403560384.0: LIBTUX_CAT:262: INFO: Standard main starting
+220355.localhost.localdomain!srvTuxedoBD.734.4021734400.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+220355.localhost.localdomain!srvTuxedoBD.734.4021734400.0: LIBTUX_CAT:262: INFO: Standard main starting
+220355.localhost.localdomain!srvTuxedoBD.734.4021734400.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+220402.localhost.localdomain!srvTuxedoBD.734.4021734400.0: Servicio select_Negocio_FML Invocado
+220402.localhost.localdomain!srvTuxedoBD.734.4021734400.0: Buscar Doctor: [Netz]
+220402.localhost.localdomain!srvTuxedoBD.734.4021734400.0: Conectando a la BD
+220402.localhost.localdomain!srvTuxedoBD.734.4021734400.0: Select exitoso
+220436.localhost.localdomain!srvTuxedoBD.734.4021734400.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+220439.localhost.localdomain!BBL.728.1403560384.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+221147.localhost.localdomain!tmloadcf.1859.2764362176.-2: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+221147.localhost.localdomain!tmloadcf.1859.2764362176.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+221225.localhost.localdomain!tmloadcf.2035.4211638720.-2: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+221225.localhost.localdomain!tmloadcf.2035.4211638720.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+221232.localhost.localdomain!BBL.2083.2168406464.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+221232.localhost.localdomain!BBL.2083.2168406464.0: LIBTUX_CAT:262: INFO: Standard main starting
+221232.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+221232.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: LIBTUX_CAT:262: INFO: Standard main starting
+221232.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+221245.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Servicio select_Negocio_FML Invocado
+221245.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Buscar Doctor: [Netz]
+221245.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Conectando a la BD
+221245.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Select exitoso
+221306.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Servicio select_Negocio_FML Invocado
+221306.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Buscar Doctor: [Adan]
+221306.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Conectando a la BD
+221306.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Select exitoso
+221313.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Servicio select_Negocio_FML Invocado
+221313.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Buscar Doctor: [Antonio]
+221313.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Conectando a la BD
+221313.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: Select exitoso
+221908.localhost.localdomain!srvTuxedoBD.2114.3352116224.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+221911.localhost.localdomain!BBL.2083.2168406464.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+222341.localhost.localdomain!tmloadcf.3534.2761368000.-2: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+222341.localhost.localdomain!tmloadcf.3534.2761368000.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+222348.localhost.localdomain!BBL.3597.3968512448.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+222348.localhost.localdomain!BBL.3597.3968512448.0: LIBTUX_CAT:262: INFO: Standard main starting
+222348.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+222348.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: LIBTUX_CAT:262: INFO: Standard main starting
+222348.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+222353.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: Servicio select_Negocio_FML Invocado
+222353.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: Buscar Doctor: [nETZ]
+222353.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: Conectando a la BD
+222353.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: Select exitoso
+222359.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: Servicio select_Negocio_FML Invocado
+222359.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: Buscar Doctor: [Netz]
+222359.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: Conectando a la BD
+222359.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: Select exitoso
+222734.localhost.localdomain!srvTuxedoBD.3607.3271076864.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+222737.localhost.localdomain!BBL.3597.3968512448.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+222822.localhost.localdomain!BBL.4399.3596009920.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+222822.localhost.localdomain!BBL.4399.3596009920.0: LIBTUX_CAT:262: INFO: Standard main starting
+222822.localhost.localdomain!srvTuxedoBD.4406.797678592.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+222822.localhost.localdomain!srvTuxedoBD.4406.797678592.0: LIBTUX_CAT:262: INFO: Standard main starting
+222822.localhost.localdomain!srvTuxedoBD.4406.797678592.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+222830.localhost.localdomain!srvTuxedoBD.4406.797678592.0: Servicio select_Negocio_FML Invocado
+222830.localhost.localdomain!srvTuxedoBD.4406.797678592.0: Buscar Doctor: [Netz]
+222830.localhost.localdomain!srvTuxedoBD.4406.797678592.0: Conectando a la BD
+222830.localhost.localdomain!srvTuxedoBD.4406.797678592.0: Select exitoso
+222856.localhost.localdomain!srvTuxedoBD.4406.797678592.0: Servicio select_Negocio_FML Invocado
+222856.localhost.localdomain!srvTuxedoBD.4406.797678592.0: Buscar Doctor: [Adan]
+222856.localhost.localdomain!srvTuxedoBD.4406.797678592.0: Conectando a la BD
+222856.localhost.localdomain!srvTuxedoBD.4406.797678592.0: Select exitoso
+222915.localhost.localdomain!srvTuxedoBD.4406.797678592.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+222918.localhost.localdomain!BBL.4399.3596009920.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+230118.localhost.localdomain!tmloadcf.8015.878080448.-2: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+230118.localhost.localdomain!tmloadcf.8015.878080448.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+230132.localhost.localdomain!BBL.8126.822428096.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+230132.localhost.localdomain!BBL.8126.822428096.0: LIBTUX_CAT:262: INFO: Standard main starting
+230132.localhost.localdomain!srvTuxedoBD.8134.3016096768.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+230132.localhost.localdomain!srvTuxedoBD.8134.3016096768.0: LIBTUX_CAT:262: INFO: Standard main starting
+230132.localhost.localdomain!srvTuxedoBD.8134.3016096768.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+230135.localhost.localdomain!srvTuxedoBD.8134.3016096768.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+230138.localhost.localdomain!BBL.8126.822428096.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+230815.localhost.localdomain!tmloadcf.8811.1250759104.-2: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+230815.localhost.localdomain!tmloadcf.8811.1250759104.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+231014.localhost.localdomain!BBL.9195.832197056.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+231014.localhost.localdomain!BBL.9195.832197056.0: LIBTUX_CAT:262: INFO: Standard main starting
+231014.localhost.localdomain!srvTuxedoBD.9203.1727488.0: 02-08-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+231014.localhost.localdomain!srvTuxedoBD.9203.1727488.0: LIBTUX_CAT:262: INFO: Standard main starting
+231014.localhost.localdomain!srvTuxedoBD.9203.1727488.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+233903.localhost.localdomain!srvTuxedoBD.9203.1727488.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+233903.localhost.localdomain!BBL.9195.832197056.0: CMDTUX_CAT:43: WARN: SIGTERM was ignored while shutting down the BBL
+234014.localhost.localdomain!BBL.9195.832197056.0: LIBTUX_CAT:216: WARN: Process 9587 died; removing from BB
