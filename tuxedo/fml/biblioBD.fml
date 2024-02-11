@@ -1,0 +1,12 @@
+# name          number  type    flag    comment
+#
+OUTPUT          5       string  -   -
+IDPACIENTE      10      long    -   - Identificador del paciente
+NOMBRE          20      string  -   - Nombre del paciente
+APELLIDO        30      string  -   - Apellido del paciente
+TELEFONO        40      string  -   - Telefono del paciente
+IDDOCTOR        50      long    -   - Identificador del doctor
+ESPECIALIDAD    60      string  -   - Especialidad del doctor
+IDHABITACION    70      long    -   - Id de la habitacion
+TAMANO          80      string  -   - Tamano de la habitacion
+IDESPECIALIDAD  90      long    -   - Id de la especialidad

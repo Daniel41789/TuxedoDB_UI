@@ -1,0 +1,22 @@
+121331.localhost.localdomain!tmloadcf.15246.2965348800.-2: 02-11-2024: client high water (0), total client (0)            
+121331.localhost.localdomain!tmloadcf.15246.2965348800.-2: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+121331.localhost.localdomain!tmloadcf.15246.2965348800.-2: CMDTUX_CAT:872: INFO: TUXCONFIG file /home/oracle/tuxedo/conf/tuxconfig has been updated
+121340.localhost.localdomain!BBL.15309.16679360.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+121340.localhost.localdomain!BBL.15309.16679360.0: LIBTUX_CAT:262: INFO: Standard main starting
+121340.localhost.localdomain!srvTuxedoBD.15317.3405126656.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+121340.localhost.localdomain!srvTuxedoBD.15317.3405126656.0: LIBTUX_CAT:262: INFO: Standard main starting
+121340.localhost.localdomain!srvTuxedoBD.15317.3405126656.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+121911.localhost.localdomain!srvTuxedoBD.15317.3405126656.0: LIBTUX_CAT:522: INFO: Default tpsvrdone() function used
+121914.localhost.localdomain!BBL.15309.16679360.0: CMDTUX_CAT:26: INFO: The BBL is exiting system
+122007.localhost.localdomain!BBL.16130.403104192.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit, Patch Level (none)
+122007.localhost.localdomain!BBL.16130.403104192.0: LIBTUX_CAT:262: INFO: Standard main starting
+122007.localhost.localdomain!srvTuxedoBD.16152.4038130688.0: 02-11-2024: Tuxedo Version 12.2.2.0.0, 64-bit
+122007.localhost.localdomain!srvTuxedoBD.16152.4038130688.0: LIBTUX_CAT:262: INFO: Standard main starting
+122007.localhost.localdomain!srvTuxedoBD.16152.4038130688.0: LIBTUX_CAT:525: INFO: Default tpsvrinit() function used
+122121.localhost.localdomain!srvTuxedoBD.16152.4038130688.0: Servicio insert_Negocio_FML Invocado
+122121.localhost.localdomain!srvTuxedoBD.16152.4038130688.0:  IDPACIENTE: [5]
+122121.localhost.localdomain!srvTuxedoBD.16152.4038130688.0:  Nombre : [Prueba]
+122121.localhost.localdomain!srvTuxedoBD.16152.4038130688.0:  Apellido: [Xd]
+122121.localhost.localdomain!srvTuxedoBD.16152.4038130688.0:  Telefono : [75869]
+122121.localhost.localdomain!srvTuxedoBD.16152.4038130688.0: Conectando a la BD
+122121.localhost.localdomain!srvTuxedoBD.16152.4038130688.0: Insert exitoso

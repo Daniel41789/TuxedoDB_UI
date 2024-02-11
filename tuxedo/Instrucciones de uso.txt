@@ -1,0 +1,16 @@
+# Instrucciones para compilar y ejecutar el servidor correctamente
+
+1.- Hay que compilar el makefile con el comando "make -f makefileOper"
+2.- Posteriormente hay que cargar el archivo de configuración ubbconfig.oper
+    con el siguiente comando: "tmloadcf -y ubbconfig.oper"
+3.- Después ejecutamos el comando "tmboot -y"
+4.- Una vez hecho lo anterior se ejecuta el archivo que se ubican 
+    en la carpeta bin con el comando "./cliTuxedoOper" seguido de 
+    los operadores correspondientes (entradas), en caso de ingresar
+    mal la entrada se mostrará un instructivo de como se deben ingresar
+    correctamente las entradas.
+5.- Una vez que se haya terminado hay que detener los servicios con
+    el comando: "tmshutdown -y"
+
+NOTA:   La carpeta tuxedo en la que se encuentran los códigos fuente
+        y el resto de archivos se encuentra en el directorio home/oracle.
